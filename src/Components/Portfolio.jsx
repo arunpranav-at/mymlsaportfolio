@@ -31,28 +31,40 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "ML based Solar Panel Energy Predictor",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Predicts Solar Panel Energy Output using weather data with 70% accuracy. Made with Google Colab, Python, various Machine Learning Algorithms.",
+    url: "https://github.com/arunpranav-at/SolarOutputPredictor",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Veritrue.ai - Deepfake Detection Tool for Videos, Images and Audio",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Predicts whether the input Videos, Images, and Audio are deepfake with 85% accuracy. Made with Python Gradio, MTCNN, Resnet, Inception, and Librosa algorithms. Secured 4th place In Cyberhackathon 3.0 conducted by TN Police at SRMIST.",
+    url: "https://github.com/arunpranav-at/Veritrue.ai_by_TrioBoys",
   },
   {
-    title: "My Resume Site",
+    title: "Avvai - AI integrated Voice-bot",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Engages in voice-based conversation on various topics with 2 second response time. Made with OpenAI API, Python, Tkinter, Speech Recognition, Py audio. One of the Top 7 Finalist Projects at the CIT Buildathon under Industry 5.0.",
+    url: "https://github.com/arunpranav-at/avvaiaiintegratedvoicebot",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Spocal - Quiz Assistant using Voice Recognition",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Conducts a quiz contest that processes voice-based answers and outputs a score. Made with Python - Tkinter, Speech Recognition, Py audio. One of the Top Projects in the CITCOS Exhibition at CIT Chennai.",
+    url: "https://github.com/arunpranav-at/SpocalQuizAssistantUsingVoice",
+  },
+  {
+    title: "Course Lister - Fullstack project",
+    description:
+      "A complete full-stack project that involves frontend, backend, and database. Made with ReactJS, NodeJS, ExpressJS, MySQL, REST APIs, and Bootstrap.",
+    url: "https://github.com/arunpranav-at/fullstackforpesuventures",
+  },
+  {
+    title: "Profit's Movie Ticket Booking website",
+    description:
+      "A dynamic website that has a load time of 2.34 seconds and a performance grade of 97. Made with HTML, CSS, JavaScript, and Google's Firebase. Authorizes users, provides movie information, and books them ticket.",
+    url: "https://github.com/arunpranav-at/Profits-Movie-Ticket-Booking",
   },
 ];
 
